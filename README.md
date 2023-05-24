@@ -20,6 +20,6 @@ Let's build a Text To Speech Flutter app which recognizes & analyzes your words 
 
 |                                App Preview                               |  
 | :----------------------------------: | 
-| <a href="https://www.youtube.com/watch?v=jwlgHLHFIjc" target="_blank"><img src="preview.jpeg" width="700"></a> 
+| <a href="https://github.com/Munirmohammed/text_to_speech_flutter" target="_blank"><img src="preview.jpeg" width="700"></a> 
 
 
